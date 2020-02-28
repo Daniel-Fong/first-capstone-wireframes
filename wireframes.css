@@ -1,0 +1,59 @@
+body {
+    text-align: center;
+}
+
+header {
+    background-color: grey;
+}
+
+.about {
+    background-color: lightgray;
+}
+
+input, label {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sign-up {
+    background-color: lightgray;
+}
+
+.image-placeholder, .image-placeholder-2 {
+    height: 10em;
+    width: 15em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image-placeholder {
+    background-color: white;
+}
+
+.navbar {
+    list-style: none;
+}
+
+.navbar li {
+    display: inline-block;
+    margin-left: 5em;
+}
+
+span {
+    background-color: lightgrey;
+    width: 4em;
+    height: 2em;
+}
+
+.create-game-form {
+    background-color: lightgrey;
+}
+
+.row-2, .row-4 {
+    margin-right: 2.8em;
+}
+
+.image-placeholder-2 {
+    background-color: grey;
+}
